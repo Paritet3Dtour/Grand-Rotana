@@ -1,0 +1,8 @@
+/node_modules/
+.bowerrc
+bower.json
+gulpfile.js
+package.json
+package-lock.json 
+/app/sendmessage.php
+/app/.htaccess
